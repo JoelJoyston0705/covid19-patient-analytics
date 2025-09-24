@@ -22,3 +22,10 @@ Analyze large-scale COVID-19 patient data for clustering and predictive modeling
 - Mortality prediction models
 
 
+## ✨ Future Work
+- Deploy on Databricks
+- Add deep learning models
+
+
+
+
